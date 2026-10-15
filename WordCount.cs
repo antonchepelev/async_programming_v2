@@ -8,6 +8,8 @@ namespace async_programming
 {
     internal class WordCount
     {
+
+        //Anton Chepelev
         public async Task<Dictionary<string, int>> CountWordsAsync(string filePath)
         {
 
